@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Laptop",
+      "price": "$1200",
+      "brand": "Dell",
+      "inventoryStatus": false,
+      "id": 5
+    },
+    {
+      "name": "Smart phone",
+      "price": "$300",
+      "brand": "Samsung",
+      "inventoryStatus": true,
+      "id": 7
+    }
+  ]
+}
